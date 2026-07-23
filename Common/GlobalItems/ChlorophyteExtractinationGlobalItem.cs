@@ -15,15 +15,14 @@ namespace WaowTheMetals.Common.GlobalItems
 				if (extractType == ItemID.ChlorophyteOre) {
 					resultStack = 1;
 					resultType = ModContent.ItemType<Content.Items.LithuaniumOre>();
-					return;
 				}
 				if (extractType == ItemID.ChlorophyteBar) {
+					resultStack = 1;
 					resultType = ModContent.ItemType<Content.Items.LithuaniumBar>();
 				}
 			} else {
 				resultType = -1;
 				resultStack = -1;
-				return;
 			};
 		}
 	}
