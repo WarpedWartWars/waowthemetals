@@ -1,0 +1,11 @@
+Items: {
+	LithuaniumOre: {
+		DisplayName: Lithuanium Ore
+		Tooltip: A rare ore from the depths of Lithuania. Also occurs in trace amounts elsewhere.
+	}
+
+	LithuaniumBar: {
+		DisplayName: Lithuanium Bar
+		Tooltip: It is said that only Lithuanians know how to refine Lithuanium, but that is quite untrue.
+	}
+}
