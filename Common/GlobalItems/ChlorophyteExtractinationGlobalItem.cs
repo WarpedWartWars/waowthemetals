@@ -21,8 +21,8 @@ namespace WaowTheMetals.Common.GlobalItems
 					resultType = ModContent.ItemType<Content.Items.LithuaniumBar>();
 				}
 			} else {
-				resultType = -1;
-				resultStack = -1;
+				//resultType = -1; // worth a try
+				//resultStack = -1;
 			};
 		}
 	}
