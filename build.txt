@@ -1,3 +1,4 @@
 displayName = Waow the Metals!
 author = WarpedWartWars
-version = 0.1
+version = 0.1.1
+buildIgnore = reference_textures/*
