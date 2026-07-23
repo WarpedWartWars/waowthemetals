@@ -1,3 +1,17 @@
 random whatever metals ig
 
-yes i am aware of the fact that chlorophyte can be extractinated in a regular extractinator; idk how to fix that
+current metals:
+- Lithuanium (ore and bar items and tiles fully implemented save for possible respriting later)
+
+planned metals:
+- Tesium
+- Axium
+- Uwum
+- Cosmon
+- Temporium
+- Eson
+
+recipes and kin:
+Chlorophyte Ore / Bar in a Chlorophyte Extractinator give Lithuanium Ore / Bar
+Lithuanium Ore shimmers into Chlorophyte Ore
+four Lithuanium Ore can be crafted at any furnace into a Lithuanium Bar

@@ -1,3 +1,12 @@
 random whatever metals ig
 
-yes i am aware of the fact that chlorophyte can be extractinated in a regular extractinator; idk how to fix that
+current metals:
+- Lithuanium (ore and bar items and tiles fully implemented save for possible respriting later)
+
+planned metals:
+- Tesium
+- Axium
+- Uwum
+- Cosmon
+- Temporium
+- Eson

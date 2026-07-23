@@ -1,4 +1,5 @@
 using Terraria;
+using Terraria.GameContent;
 using Terraria.ID;
 using Terraria.ModLoader;
 
@@ -10,6 +11,8 @@ namespace WaowTheMetals.Content.Items
         {
             Item.ResearchUnlockCount = 100;
             ItemID.Sets.SortingPriorityMaterials[Type] = 58;
+
+            ItemTrader.ChlorophyteExtractinator.AddOption_OneWay(ItemID.ChlorophyteBar, 1, Type, 1);
         }
 
         public override void SetDefaults()

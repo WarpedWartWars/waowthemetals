@@ -1,4 +1,5 @@
 using Terraria;
+using Terraria.GameContent;
 using Terraria.ID;
 using Terraria.ModLoader;
 //19910113
@@ -12,6 +13,8 @@ namespace WaowTheMetals.Content.Items
             //ItemID.Sets.ItemNoGravity[Item.type] = true;
             ItemID.Sets.SortingPriorityMaterials[Type] = 58;
             ItemID.Sets.ShimmerTransformToItem[Type] = ItemID.ChlorophyteOre;
+
+            ItemTrader.ChlorophyteExtractinator.AddOption_OneWay(ItemID.ChlorophyteOre, 1, Type, 1);
         }
 
         public override void SetDefaults()
