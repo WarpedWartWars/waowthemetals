@@ -19,7 +19,7 @@ namespace WaowTheMetals.Content.Tiles
 			Main.tileSolid[Type] = true;
 			Main.tileBlockLight[Type] = true;
 
-			AddMapEntry(new Color(151, 196, 191));
+			AddMapEntry(new Color(151, 196, 191)); //platinum hue -41
 
 			DustType = DustID.Platinum; //todo
 			VanillaFallbackOnModDeletion = TileID.Chlorophyte;

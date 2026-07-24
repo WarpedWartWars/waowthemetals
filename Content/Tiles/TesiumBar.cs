@@ -20,7 +20,7 @@ namespace WaowTheMetals.Content.Tiles
 			TileObjectData.newTile.LavaDeath = false;
 			TileObjectData.addTile(Type);
 
-			AddMapEntry(new Color(151, 196, 191)); //todo
+			AddMapEntry(new Color(2, 1, 12));
 
 			//DustType = DustID.Platinum; //todo
 			VanillaFallbackOnModDeletion = TileID.MetalBars;
