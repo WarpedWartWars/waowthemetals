@@ -1,10 +1,10 @@
 random whatever metals ig
 
-current metals:
-- Lithuanium (ore and bar items and tiles fully implemented save for possible respriting later)
+current metals: (ore and bar items and tiles fully implemented save for possible respriting later)
+- Lithuanium
+- Tesium 
 
 planned metals:
-- Tesium
 - Axium
 - Uwum
 - Cosmon

@@ -8,4 +8,14 @@ Items: {
 		DisplayName: Lithuanium Bar
 		Tooltip: It is said that only Lithuanians know how to refine Lithuanium, but that is quite untrue.
 	}
+
+	TesiumBar: {
+		DisplayName: Tesium Bar
+		Tooltip: It is a miracle that Tesium can be smelted at all, considering its heat-resistant properties.
+	}
+
+	TesiumOre: {
+		DisplayName: Tesium Ore
+		Tooltip: It is said that Tesium is the material dragon scales are made of, but none have yet tested them to find out.
+	}
 }

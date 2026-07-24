@@ -1,10 +1,10 @@
 random whatever metals ig
 
-current metals:
-- Lithuanium (ore and bar items and tiles fully implemented save for possible respriting later)
+current metals: (ore and bar items and tiles fully implemented save for possible respriting later)
+- Lithuanium
+- Tesium 
 
 planned metals:
-- Tesium
 - Axium
 - Uwum
 - Cosmon
@@ -12,6 +12,6 @@ planned metals:
 - Eson
 
 recipes and kin:
-Chlorophyte Ore / Bar in a Chlorophyte Extractinator give Lithuanium Ore / Bar
-Lithuanium Ore shimmers into Chlorophyte Ore
-four Lithuanium Ore can be crafted at any furnace into a Lithuanium Bar
+chlorophyte extractinator chain: Chlorophyte -> Lithuanium -> Tesium -> Axium -> Uwum -> Cosmon -> Temporium -> Eson
+shimmer chain is the reverse of the above
+four of an ore can be crafted at any furnace into the corresponding bar
